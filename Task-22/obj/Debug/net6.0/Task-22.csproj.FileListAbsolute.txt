@@ -1,0 +1,15 @@
+C:\Users\м\Desktop\Seminars\Task-22\bin\Debug\net6.0\Task-22.exe
+C:\Users\м\Desktop\Seminars\Task-22\bin\Debug\net6.0\Task-22.deps.json
+C:\Users\м\Desktop\Seminars\Task-22\bin\Debug\net6.0\Task-22.runtimeconfig.json
+C:\Users\м\Desktop\Seminars\Task-22\bin\Debug\net6.0\Task-22.dll
+C:\Users\м\Desktop\Seminars\Task-22\bin\Debug\net6.0\Task-22.pdb
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.csproj.AssemblyReference.cache
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.AssemblyInfoInputs.cache
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.AssemblyInfo.cs
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.csproj.CoreCompileInputs.cache
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.dll
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\refint\Task-22.dll
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.pdb
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\Task-22.genruntimeconfig.cache
+C:\Users\м\Desktop\Seminars\Task-22\obj\Debug\net6.0\ref\Task-22.dll
